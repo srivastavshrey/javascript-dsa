@@ -1,1 +1,1 @@
-# javascript-dsa
+# Data Structures and Algorithm using JavaScript
