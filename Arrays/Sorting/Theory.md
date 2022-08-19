@@ -18,4 +18,6 @@ Characteristics of Insertion Sort:
 -  Basically, Insertion sort is efficient for small data values
 -  Insertion sort is adaptive in nature, i.e. it is appropriate for data sets which are already partially sorted.
 
+**3.Bubble Sort**: Bubble sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
+
 
